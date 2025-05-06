@@ -1,0 +1,226 @@
+Favorite Genre,Pop Rating,Hip Hop Rating,Rock Rating,Country Rating,R&B/Soul Rating,Classical Rating,K-Pop Rating,EDM Rating,Jazz Rating,Time of Day,Number of Hours,Music App,Favorite Artist,Happy,Energetic,Relaxed,Focused,Sad,Confident,Inspired,Nostalgic
+Rock,4,4,5,4,4,4,3,2,2,1,During school,1,Spotify,Owl City,False,True,False,False,True,False,False,True
+Hip Hop/Rap,4,5,2,2,5,3,2,2,4,1,During school,4,Spotify,Dave,False,False,True,False,False,False,False,False
+Pop,4,3,4,1,3,2,1,2,2,1,Afternoon,2,Spotify,Maluma,True,True,False,True,False,False,False,False
+Indie,5,5,5,1,4,4,1,1,5,5,Afternoon,2,Spotify,Djo,False,False,True,False,True,False,False,True
+Rock,3,2,5,2,3,4,3,2,4,3,Afternoon,5,YouTube,The Clash,False,False,False,False,False,False,False,False
+EDM/Electronic,5,5,4,3,4,4,4,5,5,3,During school,3,Spotify,The Weekend,True,True,False,True,False,False,False,False
+Pop,5,4,4,3,2,3,2,2,3,4,During school,4,Spotify,Linkin Park,False,True,False,True,False,False,True,False
+Pop,5,5,5,1,3,2,1,3,2,5,Morning,2,Spotify,Charli Xcx,False,True,False,False,False,True,True,False
+Country,3,4,4,5,4,3,1,2,3,4,During school,5,Spotify,Morgan Wallen,True,True,True,False,False,False,False,False
+Hip Hop/Rap,5,5,3,1,4,4,2,3,3,4,Afternoon,8,Apple Music,Drake,True,False,True,False,False,False,False,True
+Pop,5,3,2,3,2,2,2,2,2,5,Afternoon,5,Apple Music,Taylor Swift,True,False,False,False,False,False,False,False
+Pop,5,2,5,4,3,2,1,1,1,4,Late night,6,Apple Music,Taylor Swift,True,True,True,False,False,False,False,False
+Pop,5,4,2,1,3,2,3,5,2,3,Afternoon,2,Spotify,Zayn,True,True,False,False,False,True,False,False
+R&B/Soul,5,4,4,3,5,4,3,3,3,4,Morning,2,Apple Music,Hozier,False,False,False,True,False,False,False,False
+Pop,5,4,1,2,3,1,1,3,1,1,During school,2,Apple Music,Tate Mcrae,True,True,False,False,False,False,True,False
+Rock,4,4,5,4,4,4,3,2,2,1,During school,1,Spotify,Owl City,False,True,False,False,True,False,False,True
+Hip Hop/Rap,4,5,2,2,5,3,2,2,4,1,During school,4,Spotify,Dave,False,False,True,False,False,False,False,False
+Pop,4,3,4,1,3,2,1,2,2,1,Afternoon,2,Spotify,Maluma,True,True,False,True,False,False,False,False
+Indie,5,5,5,1,4,4,1,1,5,5,Afternoon,2,Spotify,Djo,False,False,True,False,True,False,False,True
+Rock,3,2,5,2,3,4,3,2,4,3,Afternoon,5,YouTube,The Clash,False,False,False,False,False,False,False,False
+EDM/Electronic,5,5,4,3,4,4,4,5,5,3,During school,3,Spotify,The Weekend,True,True,False,True,False,False,False,False
+Pop,5,4,4,3,2,3,2,2,3,4,During school,4,Spotify,Linkin Park,False,True,False,True,False,False,True,False
+Pop,5,5,5,1,3,2,1,3,2,5,Morning,2,Spotify,Charli Xcx,False,True,False,False,False,True,True,False
+Country,3,4,4,5,4,3,1,2,3,4,During school,5,Spotify,Morgan Wallen,True,True,True,False,False,False,False,False
+Hip Hop/Rap,5,5,3,1,4,4,2,3,3,4,Afternoon,8,Apple Music,Drake,True,False,True,False,False,False,False,True
+Pop,5,3,2,3,2,2,2,2,2,5,Afternoon,5,Apple Music,Taylor Swift,True,False,False,False,False,False,False,False
+Pop,5,2,5,4,3,2,1,1,1,4,Late night,6,Apple Music,Taylor Swift,True,True,True,False,False,False,False,False
+Pop,5,4,2,1,3,2,3,5,2,3,Afternoon,2,Spotify,Zayn,True,True,False,False,False,True,False,False
+R&B/Soul,5,4,4,3,5,4,3,3,3,4,Morning,2,Apple Music,Hozier,False,False,False,True,False,False,False,False
+Pop,5,4,1,2,3,1,1,3,1,1,During school,2,Apple Music,Tate Mcrae,True,True,False,False,False,False,True,False
+Rock,4,4,5,4,4,4,3,2,2,1,During school,1,Spotify,Owl City,False,True,False,False,True,False,False,True
+Hip Hop/Rap,4,5,2,2,5,3,2,2,4,1,During school,4,Spotify,Dave,False,False,True,False,False,False,False,False
+Pop,4,3,4,1,3,2,1,2,2,1,Afternoon,2,Spotify,Maluma,True,True,False,True,False,False,False,False
+Indie,5,5,5,1,4,4,1,1,5,5,Afternoon,2,Spotify,Djo,False,False,True,False,True,False,False,True
+Rock,3,2,5,2,3,4,3,2,4,3,Afternoon,5,YouTube,The Clash,False,False,False,False,False,False,False,False
+EDM/Electronic,5,5,4,3,4,4,4,5,5,3,During school,3,Spotify,The Weekend,True,True,False,True,False,False,False,False
+Pop,5,4,4,3,2,3,2,2,3,4,During school,4,Spotify,Linkin Park,False,True,False,True,False,False,True,False
+Pop,5,5,5,1,3,2,1,3,2,5,Morning,2,Spotify,Charli Xcx,False,True,False,False,False,True,True,False
+Country,3,4,4,5,4,3,1,2,3,4,During school,5,Spotify,Morgan Wallen,True,True,True,False,False,False,False,False
+Hip Hop/Rap,5,5,3,1,4,4,2,3,3,4,Afternoon,8,Apple Music,Drake,True,False,True,False,False,False,False,True
+Pop,5,3,2,3,2,2,2,2,2,5,Afternoon,5,Apple Music,Taylor Swift,True,False,False,False,False,False,False,False
+Pop,5,2,5,4,3,2,1,1,1,4,Late night,6,Apple Music,Taylor Swift,True,True,True,False,False,False,False,False
+Pop,5,4,2,1,3,2,3,5,2,3,Afternoon,2,Spotify,Zayn,True,True,False,False,False,True,False,False
+R&B/Soul,5,4,4,3,5,4,3,3,3,4,Morning,2,Apple Music,Hozier,False,False,False,True,False,False,False,False
+Pop,5,4,1,2,3,1,1,3,1,1,During school,2,Apple Music,Tate Mcrae,True,True,False,False,False,False,True,False
+Rock,4,4,5,4,4,4,3,2,2,1,During school,1,Spotify,Owl City,False,True,False,False,True,False,False,True
+Hip Hop/Rap,4,5,2,2,5,3,2,2,4,1,During school,4,Spotify,Dave,False,False,True,False,False,False,False,False
+Pop,4,3,4,1,3,2,1,2,2,1,Afternoon,2,Spotify,Maluma,True,True,False,True,False,False,False,False
+Indie,5,5,5,1,4,4,1,1,5,5,Afternoon,2,Spotify,Djo,False,False,True,False,True,False,False,True
+Rock,3,2,5,2,3,4,3,2,4,3,Afternoon,5,YouTube,The Clash,False,False,False,False,False,False,False,False
+EDM/Electronic,5,5,4,3,4,4,4,5,5,3,During school,3,Spotify,The Weekend,True,True,False,True,False,False,False,False
+Pop,5,4,4,3,2,3,2,2,3,4,During school,4,Spotify,Linkin Park,False,True,False,True,False,False,True,False
+Pop,5,5,5,1,3,2,1,3,2,5,Morning,2,Spotify,Charli Xcx,False,True,False,False,False,True,True,False
+Country,3,4,4,5,4,3,1,2,3,4,During school,5,Spotify,Morgan Wallen,True,True,True,False,False,False,False,False
+Hip Hop/Rap,5,5,3,1,4,4,2,3,3,4,Afternoon,8,Apple Music,Drake,True,False,True,False,False,False,False,True
+Pop,5,3,2,3,2,2,2,2,2,5,Afternoon,5,Apple Music,Taylor Swift,True,False,False,False,False,False,False,False
+Pop,5,2,5,4,3,2,1,1,1,4,Late night,6,Apple Music,Taylor Swift,True,True,True,False,False,False,False,False
+Pop,5,4,2,1,3,2,3,5,2,3,Afternoon,2,Spotify,Zayn,True,True,False,False,False,True,False,False
+R&B/Soul,5,4,4,3,5,4,3,3,3,4,Morning,2,Apple Music,Hozier,False,False,False,True,False,False,False,False
+Pop,5,4,1,2,3,1,1,3,1,1,During school,2,Apple Music,Tate Mcrae,True,True,False,False,False,False,True,False
+Rock,4,4,5,4,4,4,3,2,2,1,During school,1,Spotify,Owl City,False,True,False,False,True,False,False,True
+Hip Hop/Rap,4,5,2,2,5,3,2,2,4,1,During school,4,Spotify,Dave,False,False,True,False,False,False,False,False
+Pop,4,3,4,1,3,2,1,2,2,1,Afternoon,2,Spotify,Maluma,True,True,False,True,False,False,False,False
+Indie,5,5,5,1,4,4,1,1,5,5,Afternoon,2,Spotify,Djo,False,False,True,False,True,False,False,True
+Rock,3,2,5,2,3,4,3,2,4,3,Afternoon,5,YouTube,The Clash,False,False,False,False,False,False,False,False
+EDM/Electronic,5,5,4,3,4,4,4,5,5,3,During school,3,Spotify,The Weekend,True,True,False,True,False,False,False,False
+Pop,5,4,4,3,2,3,2,2,3,4,During school,4,Spotify,Linkin Park,False,True,False,True,False,False,True,False
+Pop,5,5,5,1,3,2,1,3,2,5,Morning,2,Spotify,Charli Xcx,False,True,False,False,False,True,True,False
+Country,3,4,4,5,4,3,1,2,3,4,During school,5,Spotify,Morgan Wallen,True,True,True,False,False,False,False,False
+Hip Hop/Rap,5,5,3,1,4,4,2,3,3,4,Afternoon,8,Apple Music,Drake,True,False,True,False,False,False,False,True
+Pop,5,3,2,3,2,2,2,2,2,5,Afternoon,5,Apple Music,Taylor Swift,True,False,False,False,False,False,False,False
+Pop,5,2,5,4,3,2,1,1,1,4,Late night,6,Apple Music,Taylor Swift,True,True,True,False,False,False,False,False
+Pop,5,4,2,1,3,2,3,5,2,3,Afternoon,2,Spotify,Zayn,True,True,False,False,False,True,False,False
+R&B/Soul,5,4,4,3,5,4,3,3,3,4,Morning,2,Apple Music,Hozier,False,False,False,True,False,False,False,False
+Pop,5,4,1,2,3,1,1,3,1,1,During school,2,Apple Music,Tate Mcrae,True,True,False,False,False,False,True,False
+Rock,4,4,5,4,4,4,3,2,2,1,During school,1,Spotify,Owl City,False,True,False,False,True,False,False,True
+Hip Hop/Rap,4,5,2,2,5,3,2,2,4,1,During school,4,Spotify,Dave,False,False,True,False,False,False,False,False
+Pop,4,3,4,1,3,2,1,2,2,1,Afternoon,2,Spotify,Maluma,True,True,False,True,False,False,False,False
+Indie,5,5,5,1,4,4,1,1,5,5,Afternoon,2,Spotify,Djo,False,False,True,False,True,False,False,True
+Rock,3,2,5,2,3,4,3,2,4,3,Afternoon,5,YouTube,The Clash,False,False,False,False,False,False,False,False
+EDM/Electronic,5,5,4,3,4,4,4,5,5,3,During school,3,Spotify,The Weekend,True,True,False,True,False,False,False,False
+Pop,5,4,4,3,2,3,2,2,3,4,During school,4,Spotify,Linkin Park,False,True,False,True,False,False,True,False
+Pop,5,5,5,1,3,2,1,3,2,5,Morning,2,Spotify,Charli Xcx,False,True,False,False,False,True,True,False
+Country,3,4,4,5,4,3,1,2,3,4,During school,5,Spotify,Morgan Wallen,True,True,True,False,False,False,False,False
+Hip Hop/Rap,5,5,3,1,4,4,2,3,3,4,Afternoon,8,Apple Music,Drake,True,False,True,False,False,False,False,True
+Pop,5,3,2,3,2,2,2,2,2,5,Afternoon,5,Apple Music,Taylor Swift,True,False,False,False,False,False,False,False
+Pop,5,2,5,4,3,2,1,1,1,4,Late night,6,Apple Music,Taylor Swift,True,True,True,False,False,False,False,False
+Pop,5,4,2,1,3,2,3,5,2,3,Afternoon,2,Spotify,Zayn,True,True,False,False,False,True,False,False
+R&B/Soul,5,4,4,3,5,4,3,3,3,4,Morning,2,Apple Music,Hozier,False,False,False,True,False,False,False,False
+Pop,5,4,1,2,3,1,1,3,1,1,During school,2,Apple Music,Tate Mcrae,True,True,False,False,False,False,True,False
+Rock,4,4,5,4,4,4,3,2,2,1,During school,1,Spotify,Owl City,False,True,False,False,True,False,False,True
+Hip Hop/Rap,4,5,2,2,5,3,2,2,4,1,During school,4,Spotify,Dave,False,False,True,False,False,False,False,False
+Pop,4,3,4,1,3,2,1,2,2,1,Afternoon,2,Spotify,Maluma,True,True,False,True,False,False,False,False
+Indie,5,5,5,1,4,4,1,1,5,5,Afternoon,2,Spotify,Djo,False,False,True,False,True,False,False,True
+Rock,3,2,5,2,3,4,3,2,4,3,Afternoon,5,YouTube,The Clash,False,False,False,False,False,False,False,False
+EDM/Electronic,5,5,4,3,4,4,4,5,5,3,During school,3,Spotify,The Weekend,True,True,False,True,False,False,False,False
+Pop,5,4,4,3,2,3,2,2,3,4,During school,4,Spotify,Linkin Park,False,True,False,True,False,False,True,False
+Pop,5,5,5,1,3,2,1,3,2,5,Morning,2,Spotify,Charli Xcx,False,True,False,False,False,True,True,False
+Country,3,4,4,5,4,3,1,2,3,4,During school,5,Spotify,Morgan Wallen,True,True,True,False,False,False,False,False
+Hip Hop/Rap,5,5,3,1,4,4,2,3,3,4,Afternoon,8,Apple Music,Drake,True,False,True,False,False,False,False,True
+Pop,5,3,2,3,2,2,2,2,2,5,Afternoon,5,Apple Music,Taylor Swift,True,False,False,False,False,False,False,False
+Pop,5,2,5,4,3,2,1,1,1,4,Late night,6,Apple Music,Taylor Swift,True,True,True,False,False,False,False,False
+Pop,5,4,2,1,3,2,3,5,2,3,Afternoon,2,Spotify,Zayn,True,True,False,False,False,True,False,False
+R&B/Soul,5,4,4,3,5,4,3,3,3,4,Morning,2,Apple Music,Hozier,False,False,False,True,False,False,False,False
+Pop,5,4,1,2,3,1,1,3,1,1,During school,2,Apple Music,Tate Mcrae,True,True,False,False,False,False,True,False
+Rock,4,4,5,4,4,4,3,2,2,1,During school,1,Spotify,Owl City,False,True,False,False,True,False,False,True
+Hip Hop/Rap,4,5,2,2,5,3,2,2,4,1,During school,4,Spotify,Dave,False,False,True,False,False,False,False,False
+Pop,4,3,4,1,3,2,1,2,2,1,Afternoon,2,Spotify,Maluma,True,True,False,True,False,False,False,False
+Indie,5,5,5,1,4,4,1,1,5,5,Afternoon,2,Spotify,Djo,False,False,True,False,True,False,False,True
+Rock,3,2,5,2,3,4,3,2,4,3,Afternoon,5,YouTube,The Clash,False,False,False,False,False,False,False,False
+EDM/Electronic,5,5,4,3,4,4,4,5,5,3,During school,3,Spotify,The Weekend,True,True,False,True,False,False,False,False
+Pop,5,4,4,3,2,3,2,2,3,4,During school,4,Spotify,Linkin Park,False,True,False,True,False,False,True,False
+Pop,5,5,5,1,3,2,1,3,2,5,Morning,2,Spotify,Charli Xcx,False,True,False,False,False,True,True,False
+Country,3,4,4,5,4,3,1,2,3,4,During school,5,Spotify,Morgan Wallen,True,True,True,False,False,False,False,False
+Hip Hop/Rap,5,5,3,1,4,4,2,3,3,4,Afternoon,8,Apple Music,Drake,True,False,True,False,False,False,False,True
+Pop,5,3,2,3,2,2,2,2,2,5,Afternoon,5,Apple Music,Taylor Swift,True,False,False,False,False,False,False,False
+Pop,5,2,5,4,3,2,1,1,1,4,Late night,6,Apple Music,Taylor Swift,True,True,True,False,False,False,False,False
+Pop,5,4,2,1,3,2,3,5,2,3,Afternoon,2,Spotify,Zayn,True,True,False,False,False,True,False,False
+R&B/Soul,5,4,4,3,5,4,3,3,3,4,Morning,2,Apple Music,Hozier,False,False,False,True,False,False,False,False
+Pop,5,4,1,2,3,1,1,3,1,1,During school,2,Apple Music,Tate Mcrae,True,True,False,False,False,False,True,False
+Rock,4,4,5,4,4,4,3,2,2,1,During school,1,Spotify,Owl City,False,True,False,False,True,False,False,True
+Hip Hop/Rap,4,5,2,2,5,3,2,2,4,1,During school,4,Spotify,Dave,False,False,True,False,False,False,False,False
+Pop,4,3,4,1,3,2,1,2,2,1,Afternoon,2,Spotify,Maluma,True,True,False,True,False,False,False,False
+Indie,5,5,5,1,4,4,1,1,5,5,Afternoon,2,Spotify,Djo,False,False,True,False,True,False,False,True
+Rock,3,2,5,2,3,4,3,2,4,3,Afternoon,5,YouTube,The Clash,False,False,False,False,False,False,False,False
+EDM/Electronic,5,5,4,3,4,4,4,5,5,3,During school,3,Spotify,The Weekend,True,True,False,True,False,False,False,False
+Pop,5,4,4,3,2,3,2,2,3,4,During school,4,Spotify,Linkin Park,False,True,False,True,False,False,True,False
+Pop,5,5,5,1,3,2,1,3,2,5,Morning,2,Spotify,Charli Xcx,False,True,False,False,False,True,True,False
+Country,3,4,4,5,4,3,1,2,3,4,During school,5,Spotify,Morgan Wallen,True,True,True,False,False,False,False,False
+Hip Hop/Rap,5,5,3,1,4,4,2,3,3,4,Afternoon,8,Apple Music,Drake,True,False,True,False,False,False,False,True
+Pop,5,3,2,3,2,2,2,2,2,5,Afternoon,5,Apple Music,Taylor Swift,True,False,False,False,False,False,False,False
+Pop,5,2,5,4,3,2,1,1,1,4,Late night,6,Apple Music,Taylor Swift,True,True,True,False,False,False,False,False
+Pop,5,4,2,1,3,2,3,5,2,3,Afternoon,2,Spotify,Zayn,True,True,False,False,False,True,False,False
+R&B/Soul,5,4,4,3,5,4,3,3,3,4,Morning,2,Apple Music,Hozier,False,False,False,True,False,False,False,False
+Pop,5,4,1,2,3,1,1,3,1,1,During school,2,Apple Music,Tate Mcrae,True,True,False,False,False,False,True,False
+Rock,4,4,5,4,4,4,3,2,2,1,During school,1,Spotify,Owl City,False,True,False,False,True,False,False,True
+Hip Hop/Rap,4,5,2,2,5,3,2,2,4,1,During school,4,Spotify,Dave,False,False,True,False,False,False,False,False
+Pop,4,3,4,1,3,2,1,2,2,1,Afternoon,2,Spotify,Maluma,True,True,False,True,False,False,False,False
+Indie,5,5,5,1,4,4,1,1,5,5,Afternoon,2,Spotify,Djo,False,False,True,False,True,False,False,True
+Rock,3,2,5,2,3,4,3,2,4,3,Afternoon,5,YouTube,The Clash,False,False,False,False,False,False,False,False
+EDM/Electronic,5,5,4,3,4,4,4,5,5,3,During school,3,Spotify,The Weekend,True,True,False,True,False,False,False,False
+Pop,5,4,4,3,2,3,2,2,3,4,During school,4,Spotify,Linkin Park,False,True,False,True,False,False,True,False
+Pop,5,5,5,1,3,2,1,3,2,5,Morning,2,Spotify,Charli Xcx,False,True,False,False,False,True,True,False
+Country,3,4,4,5,4,3,1,2,3,4,During school,5,Spotify,Morgan Wallen,True,True,True,False,False,False,False,False
+Hip Hop/Rap,5,5,3,1,4,4,2,3,3,4,Afternoon,8,Apple Music,Drake,True,False,True,False,False,False,False,True
+Pop,5,3,2,3,2,2,2,2,2,5,Afternoon,5,Apple Music,Taylor Swift,True,False,False,False,False,False,False,False
+Pop,5,2,5,4,3,2,1,1,1,4,Late night,6,Apple Music,Taylor Swift,True,True,True,False,False,False,False,False
+Pop,5,4,2,1,3,2,3,5,2,3,Afternoon,2,Spotify,Zayn,True,True,False,False,False,True,False,False
+R&B/Soul,5,4,4,3,5,4,3,3,3,4,Morning,2,Apple Music,Hozier,False,False,False,True,False,False,False,False
+Pop,5,4,1,2,3,1,1,3,1,1,During school,2,Apple Music,Tate Mcrae,True,True,False,False,False,False,True,False
+Rock,4,4,5,4,4,4,3,2,2,1,During school,1,Spotify,Owl City,False,True,False,False,True,False,False,True
+Hip Hop/Rap,4,5,2,2,5,3,2,2,4,1,During school,4,Spotify,Dave,False,False,True,False,False,False,False,False
+Pop,4,3,4,1,3,2,1,2,2,1,Afternoon,2,Spotify,Maluma,True,True,False,True,False,False,False,False
+Indie,5,5,5,1,4,4,1,1,5,5,Afternoon,2,Spotify,Djo,False,False,True,False,True,False,False,True
+Rock,3,2,5,2,3,4,3,2,4,3,Afternoon,5,YouTube,The Clash,False,False,False,False,False,False,False,False
+EDM/Electronic,5,5,4,3,4,4,4,5,5,3,During school,3,Spotify,The Weekend,True,True,False,True,False,False,False,False
+Pop,5,4,4,3,2,3,2,2,3,4,During school,4,Spotify,Linkin Park,False,True,False,True,False,False,True,False
+Pop,5,5,5,1,3,2,1,3,2,5,Morning,2,Spotify,Charli Xcx,False,True,False,False,False,True,True,False
+Country,3,4,4,5,4,3,1,2,3,4,During school,5,Spotify,Morgan Wallen,True,True,True,False,False,False,False,False
+Hip Hop/Rap,5,5,3,1,4,4,2,3,3,4,Afternoon,8,Apple Music,Drake,True,False,True,False,False,False,False,True
+Pop,5,3,2,3,2,2,2,2,2,5,Afternoon,5,Apple Music,Taylor Swift,True,False,False,False,False,False,False,False
+Pop,5,2,5,4,3,2,1,1,1,4,Late night,6,Apple Music,Taylor Swift,True,True,True,False,False,False,False,False
+Pop,5,4,2,1,3,2,3,5,2,3,Afternoon,2,Spotify,Zayn,True,True,False,False,False,True,False,False
+R&B/Soul,5,4,4,3,5,4,3,3,3,4,Morning,2,Apple Music,Hozier,False,False,False,True,False,False,False,False
+Pop,5,4,1,2,3,1,1,3,1,1,During school,2,Apple Music,Tate Mcrae,True,True,False,False,False,False,True,False
+Rock,4,4,5,4,4,4,3,2,2,1,During school,1,Spotify,Owl City,False,True,False,False,True,False,False,True
+Hip Hop/Rap,4,5,2,2,5,3,2,2,4,1,During school,4,Spotify,Dave,False,False,True,False,False,False,False,False
+Pop,4,3,4,1,3,2,1,2,2,1,Afternoon,2,Spotify,Maluma,True,True,False,True,False,False,False,False
+Indie,5,5,5,1,4,4,1,1,5,5,Afternoon,2,Spotify,Djo,False,False,True,False,True,False,False,True
+Rock,3,2,5,2,3,4,3,2,4,3,Afternoon,5,YouTube,The Clash,False,False,False,False,False,False,False,False
+EDM/Electronic,5,5,4,3,4,4,4,5,5,3,During school,3,Spotify,The Weekend,True,True,False,True,False,False,False,False
+Pop,5,4,4,3,2,3,2,2,3,4,During school,4,Spotify,Linkin Park,False,True,False,True,False,False,True,False
+Pop,5,5,5,1,3,2,1,3,2,5,Morning,2,Spotify,Charli Xcx,False,True,False,False,False,True,True,False
+Country,3,4,4,5,4,3,1,2,3,4,During school,5,Spotify,Morgan Wallen,True,True,True,False,False,False,False,False
+Hip Hop/Rap,5,5,3,1,4,4,2,3,3,4,Afternoon,8,Apple Music,Drake,True,False,True,False,False,False,False,True
+Pop,5,3,2,3,2,2,2,2,2,5,Afternoon,5,Apple Music,Taylor Swift,True,False,False,False,False,False,False,False
+Pop,5,2,5,4,3,2,1,1,1,4,Late night,6,Apple Music,Taylor Swift,True,True,True,False,False,False,False,False
+Pop,5,4,2,1,3,2,3,5,2,3,Afternoon,2,Spotify,Zayn,True,True,False,False,False,True,False,False
+R&B/Soul,5,4,4,3,5,4,3,3,3,4,Morning,2,Apple Music,Hozier,False,False,False,True,False,False,False,False
+Pop,5,4,1,2,3,1,1,3,1,1,During school,2,Apple Music,Tate Mcrae,True,True,False,False,False,False,True,False
+Rock,4,4,5,4,4,4,3,2,2,1,During school,1,Spotify,Owl City,False,True,False,False,True,False,False,True
+Hip Hop/Rap,4,5,2,2,5,3,2,2,4,1,During school,4,Spotify,Dave,False,False,True,False,False,False,False,False
+Pop,4,3,4,1,3,2,1,2,2,1,Afternoon,2,Spotify,Maluma,True,True,False,True,False,False,False,False
+Indie,5,5,5,1,4,4,1,1,5,5,Afternoon,2,Spotify,Djo,False,False,True,False,True,False,False,True
+Rock,3,2,5,2,3,4,3,2,4,3,Afternoon,5,YouTube,The Clash,False,False,False,False,False,False,False,False
+EDM/Electronic,5,5,4,3,4,4,4,5,5,3,During school,3,Spotify,The Weekend,True,True,False,True,False,False,False,False
+Pop,5,4,4,3,2,3,2,2,3,4,During school,4,Spotify,Linkin Park,False,True,False,True,False,False,True,False
+Pop,5,5,5,1,3,2,1,3,2,5,Morning,2,Spotify,Charli Xcx,False,True,False,False,False,True,True,False
+Country,3,4,4,5,4,3,1,2,3,4,During school,5,Spotify,Morgan Wallen,True,True,True,False,False,False,False,False
+Hip Hop/Rap,5,5,3,1,4,4,2,3,3,4,Afternoon,8,Apple Music,Drake,True,False,True,False,False,False,False,True
+Pop,5,3,2,3,2,2,2,2,2,5,Afternoon,5,Apple Music,Taylor Swift,True,False,False,False,False,False,False,False
+Pop,5,2,5,4,3,2,1,1,1,4,Late night,6,Apple Music,Taylor Swift,True,True,True,False,False,False,False,False
+Pop,5,4,2,1,3,2,3,5,2,3,Afternoon,2,Spotify,Zayn,True,True,False,False,False,True,False,False
+R&B/Soul,5,4,4,3,5,4,3,3,3,4,Morning,2,Apple Music,Hozier,False,False,False,True,False,False,False,False
+Pop,5,4,1,2,3,1,1,3,1,1,During school,2,Apple Music,Tate Mcrae,True,True,False,False,False,False,True,False
+Rock,4,4,5,4,4,4,3,2,2,1,During school,1,Spotify,Owl City,False,True,False,False,True,False,False,True
+Hip Hop/Rap,4,5,2,2,5,3,2,2,4,1,During school,4,Spotify,Dave,False,False,True,False,False,False,False,False
+Pop,4,3,4,1,3,2,1,2,2,1,Afternoon,2,Spotify,Maluma,True,True,False,True,False,False,False,False
+Indie,5,5,5,1,4,4,1,1,5,5,Afternoon,2,Spotify,Djo,False,False,True,False,True,False,False,True
+Rock,3,2,5,2,3,4,3,2,4,3,Afternoon,5,YouTube,The Clash,False,False,False,False,False,False,False,False
+EDM/Electronic,5,5,4,3,4,4,4,5,5,3,During school,3,Spotify,The Weekend,True,True,False,True,False,False,False,False
+Pop,5,4,4,3,2,3,2,2,3,4,During school,4,Spotify,Linkin Park,False,True,False,True,False,False,True,False
+Pop,5,5,5,1,3,2,1,3,2,5,Morning,2,Spotify,Charli Xcx,False,True,False,False,False,True,True,False
+Country,3,4,4,5,4,3,1,2,3,4,During school,5,Spotify,Morgan Wallen,True,True,True,False,False,False,False,False
+Hip Hop/Rap,5,5,3,1,4,4,2,3,3,4,Afternoon,8,Apple Music,Drake,True,False,True,False,False,False,False,True
+Pop,5,3,2,3,2,2,2,2,2,5,Afternoon,5,Apple Music,Taylor Swift,True,False,False,False,False,False,False,False
+Pop,5,2,5,4,3,2,1,1,1,4,Late night,6,Apple Music,Taylor Swift,True,True,True,False,False,False,False,False
+Pop,5,4,2,1,3,2,3,5,2,3,Afternoon,2,Spotify,Zayn,True,True,False,False,False,True,False,False
+R&B/Soul,5,4,4,3,5,4,3,3,3,4,Morning,2,Apple Music,Hozier,False,False,False,True,False,False,False,False
+Pop,5,4,1,2,3,1,1,3,1,1,During school,2,Apple Music,Tate Mcrae,True,True,False,False,False,False,True,False
+Rock,4,4,5,4,4,4,3,2,2,1,During school,1,Spotify,Owl City,False,True,False,False,True,False,False,True
+Hip Hop/Rap,4,5,2,2,5,3,2,2,4,1,During school,4,Spotify,Dave,False,False,True,False,False,False,False,False
+Pop,4,3,4,1,3,2,1,2,2,1,Afternoon,2,Spotify,Maluma,True,True,False,True,False,False,False,False
+Indie,5,5,5,1,4,4,1,1,5,5,Afternoon,2,Spotify,Djo,False,False,True,False,True,False,False,True
+Rock,3,2,5,2,3,4,3,2,4,3,Afternoon,5,YouTube,The Clash,False,False,False,False,False,False,False,False
+EDM/Electronic,5,5,4,3,4,4,4,5,5,3,During school,3,Spotify,The Weekend,True,True,False,True,False,False,False,False
+Pop,5,4,4,3,2,3,2,2,3,4,During school,4,Spotify,Linkin Park,False,True,False,True,False,False,True,False
+Pop,5,5,5,1,3,2,1,3,2,5,Morning,2,Spotify,Charli Xcx,False,True,False,False,False,True,True,False
+Country,3,4,4,5,4,3,1,2,3,4,During school,5,Spotify,Morgan Wallen,True,True,True,False,False,False,False,False
+Hip Hop/Rap,5,5,3,1,4,4,2,3,3,4,Afternoon,8,Apple Music,Drake,True,False,True,False,False,False,False,True
+Pop,5,3,2,3,2,2,2,2,2,5,Afternoon,5,Apple Music,Taylor Swift,True,False,False,False,False,False,False,False
+Pop,5,2,5,4,3,2,1,1,1,4,Late night,6,Apple Music,Taylor Swift,True,True,True,False,False,False,False,False
+Pop,5,4,2,1,3,2,3,5,2,3,Afternoon,2,Spotify,Zayn,True,True,False,False,False,True,False,False
+R&B/Soul,5,4,4,3,5,4,3,3,3,4,Morning,2,Apple Music,Hozier,False,False,False,True,False,False,False,False
+Pop,5,4,1,2,3,1,1,3,1,1,During school,2,Apple Music,Tate Mcrae,True,True,False,False,False,False,True,False
