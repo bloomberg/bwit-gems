@@ -2,5 +2,4 @@
 
 BWIT x GEMS 2025
 
-<!-- TODO: URL needs to be updated -->
-[![Binder](https://mybinder.org/badge_logo.svg)](https://updateme)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bloomberg/bwit-gems/HEAD)
